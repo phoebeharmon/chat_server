@@ -1,2 +1,5 @@
 # chat_server
-nyu shanghai intro to cs final project
+New York University Shanghai Intro to CS Final Project
+
+* A chat server that implements voice and text transmission
+* Utilizes Google web API and Python
